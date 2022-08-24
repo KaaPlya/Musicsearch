@@ -129,8 +129,8 @@ async def callback_handling(_, query: CallbackQuery):
 
 
 
-#Music.start()
-#print('Music bot ishga tushdi....')
-#idle()
-#print('Music bot toxtadi...')
-#Music.stop()
+Music.start()
+print('Music bot ishga tushdi....')
+idle()
+print('Music bot toxtadi...')
+Music.stop()
